@@ -1,0 +1,1 @@
+So I created a mini OS here it can do some certain things like read a file , list files browse the internet list processes and kill processes. I did so that someone can see some basic programming concepts and principles and That's it!
